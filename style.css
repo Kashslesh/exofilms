@@ -1,0 +1,12 @@
+li {
+    list-style: none;
+}
+#movies{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+li {
+    /* display: flex;
+    flex-wrap: wrap; */
+
+}
